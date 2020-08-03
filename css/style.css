@@ -1,0 +1,25 @@
+body {
+   font-family: tahoma; 
+   line-height: 1.5;
+}
+    p {
+        color: #434b4d;
+    }
+    
+    .cab-grande p {
+        color:#1e0677;
+    }
+
+nav {
+background-color: #e2c1dd;
+border:solid 1px black;
+} 
+.btn {
+text-transform: uppercase;
+text-decoration: none;
+}
+    .btn-border {  
+
+    border: solid 4px red;
+    }
+    /*  */
