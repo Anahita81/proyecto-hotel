@@ -2,18 +2,52 @@ body {
    font-family: tahoma; 
    line-height: 1.5;
 }
+footer {
+    max-width: 100%;
+}
+iframe {
+    max-width: 100%;
+}
     p {
         color: #434b4d;
     }
-    
+.cab-grande {
+    width:50%;
+}
     .cab-grande p {
         color:#1e0677;
+        width: 50%; 
     }
-
+    .cab-simple {
+        width:50%; 
+    }
+    .col-2 {
+        max-width: 100%;
+        width: 20%;
+    }
+    .col-2 h4{
+        max-width: 100%;
+    }
+img {
+    max-width: 100%;
+}
 nav {
 background-color: #e2c1dd;
 border:solid 1px black;
 } 
+article {
+    border: solid;  
+    padding: 45px;
+    max-width: 100%;
+}
+
+.promo1 {
+    width: 30%;
+}   
+.promo2{
+    width: 30%;
+}
+
 .btn {
 text-transform: uppercase;
 text-decoration: none;
@@ -22,4 +56,4 @@ text-decoration: none;
 
     border: solid 4px red;
     }
-    /*  */
+    
